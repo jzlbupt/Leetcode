@@ -13,6 +13,10 @@ package twopointers;
  Note:
  You are not suppose to use the library's sort function for this problem.
  */
+
+/**
+ * https://leetcode.com/problems/sort-colors/#/description
+ */
 public class SortColors {
     public void sortColors(int[] nums) {
         if(nums == null || nums.length == 0) return;
