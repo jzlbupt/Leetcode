@@ -1,9 +1,9 @@
 # LeetCode solutions in Java
 
-#### [Two Pointers](https://github.com/jzlbupt/Leetcode/tree/master/src/twopointers)
+#### [Two Pointers](src/twopointers)
 
-- [Three Sum](master/src/twopointers/ThreeSum.java)  (Medium)
-- [Three Sum closest](master/src/twopointers/ThreeSumClosest.java) (Medium)
+- [Three Sum](src/twopointers/ThreeSum.java)  (Medium)
+- [Three Sum closest](src/twopointers/ThreeSumClosest.java) (Medium)
 - [Four Sum](https://github.com/jzlbupt/Leetcode/blob/master/src/twopointers/FourSum.java)
 
 - [Remove Elements](https://github.com/jzlbupt/Leetcode/blob/master/src/twopointers/RemoveElement.java)
