@@ -13,5 +13,5 @@
 - [Trapping Rain Water](https://github.com/jzlbupt/Leetcode/blob/master/src/twopointers/TrappingRainWater.java)
 - [Trapping Rain Water 2](https://github.com/jzlbupt/Leetcode/blob/master/src/twopointers/TrappingRainWater2.java)
 - [Sort Colors](https://github.com/jzlbupt/Leetcode/blob/master/src/twopointers/SortColors.java)
-- [Merge Sorted Array](src/twopointers/MergeSortedArray.java) (Easy) [LeetCode](https://leetcode.com/problems/merge-sorted-array/#/description)
-- [Valid Palindrome](src/twopointers/ValidPalindrome.java)(Easy) [LeetCode](https://leetcode.com/problems/valid-palindrome/#/description)
+- [Merge Sorted Array](src/twopointers/MergeSortedArray.java) (Easy) [(link)](https://leetcode.com/problems/merge-sorted-array/#/description)
+- [Valid Palindrome](src/twopointers/ValidPalindrome.java) (Easy) [(link)](https://leetcode.com/problems/valid-palindrome/#/description)
