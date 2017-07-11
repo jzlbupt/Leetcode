@@ -16,4 +16,5 @@
 - [Merge Sorted Array](src/twopointers/MergeSortedArray.java) (Easy) [->link](https://leetcode.com/problems/merge-sorted-array/#/description)
 - [Valid Palindrome](src/twopointers/ValidPalindrome.java) (Easy) [->link](https://leetcode.com/problems/valid-palindrome/#/description)
 - [Minimum Window Substring](src/twopointers/MinimumWindowSubstring.java)(Hard) [->link](https://leetcode.com/problems/minimum-window-substring/#/description)
-- [Find the Duplicate Number](src/twopointers/FindTheDuplicateNumber)(Medium) [->link](https://leetcode.com/problems/find-the-duplicate-number/#/description)
+- [Find the Duplicate Number](src/twopointers/FindTheDuplicateNumber.java)(Medium) [->link](https://leetcode.com/problems/find-the-duplicate-number/#/description)
+- [K-diff Pairs in an Array](src/twopointers/KDiffPairsInAnArray.java)(Easy)[->link](https://leetcode.com/problems/k-diff-pairs-in-an-array/#/description)
