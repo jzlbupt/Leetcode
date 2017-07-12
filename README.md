@@ -18,3 +18,4 @@
 - [Minimum Window Substring](src/twopointers/MinimumWindowSubstring.java)(Hard) [->link](https://leetcode.com/problems/minimum-window-substring/#/description)
 - [Find the Duplicate Number](src/twopointers/FindTheDuplicateNumber.java)(Medium) [->link](https://leetcode.com/problems/find-the-duplicate-number/#/description)
 - [K-diff Pairs in an Array](src/twopointers/KDiffPairsInAnArray.java)(Easy)[->link](https://leetcode.com/problems/k-diff-pairs-in-an-array/#/description)
+- [Permutation in String](src/twopointers/PermutationInString.java)(Medium)[->link](https://leetcode.com/problems/permutation-in-string/#/description)
