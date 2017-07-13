@@ -19,3 +19,13 @@
 - [Find the Duplicate Number](src/twopointers/FindTheDuplicateNumber.java)(Medium) [->link](https://leetcode.com/problems/find-the-duplicate-number/#/description)
 - [K-diff Pairs in an Array](src/twopointers/KDiffPairsInAnArray.java)(Easy)[->link](https://leetcode.com/problems/k-diff-pairs-in-an-array/#/description)
 - [Permutation in String](src/twopointers/PermutationInString.java)(Medium)[->link](https://leetcode.com/problems/permutation-in-string/#/description)
+
+#### [Linked List](src/linkedlist)
+
+- [Linked List Cycle](src/linkedlist/LinkedListCycle.java)(Easy)[->link](https://leetcode.com/problems/linked-list-cycle/#/description0)
+- [Linked List Cycle II](src/linkedlist/LinkedListCycle2.java)(Medium)[->link](https://leetcode.com/problems/linked-list-cycle-ii/#/description)
+- [Merge Two Sorted Lists](src/linkedlist/MergeTwoSortedLists.java)(Easy)[->link](https://leetcode.com/problems/merge-two-sorted-lists/#/description)
+- [Remove Duplicates from Sorted List](src/linkedlist/RemoveDuplicatesFromSortedList.java)(Easy)[->link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)
+- [Remove Duplicates from Sorted List II](src/linkedlist/RemoveDuplicatesFromSortedList2.java)(Medium)[->link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/#/description)
+- [Remove Linked List Elements](src/linkedlist/RemoveLinkedListElements.java)(Easy)[->link](https://leetcode.com/problems/remove-linked-list-elements/#/description)
+- [Reverse Linked List](src/linkedlist/ReverseLinkedList.java)(Easy)[->link](https://leetcode.com/problems/reverse-linked-list/#/description)
