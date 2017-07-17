@@ -36,3 +36,5 @@
 - [Partition List](src/linkedlist/PartitionList.java)(Medium)[->link](https://leetcode.com/problems/partition-list/#/description)
 - [Add Two Numbers](src/linkedlist/AddTwoNumbers.java)(Medium)[->link](https://leetcode.com/problems/add-two-numbers/#/description)
 - [Reorder List](src/linkedlist/ReorderList.java)(Medium)[->link](https://leetcode.com/problems/reorder-list/#/description)
+- [Remove Nth Node From End of List](src/linkedlist/RemoveNthNodeFromEndofList.java)(Medium)[->link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description)
+- [Copy List with Random Pointer](src/linkedlist/CopyListWithRandomPointer.java)(Medium)[->link](https://leetcode.com/problems/copy-list-with-random-pointer/#/description)
