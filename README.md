@@ -41,3 +41,12 @@
 - [Reorder List](src/linkedlist/ReorderList.java)(Medium)[->link](https://leetcode.com/problems/reorder-list/#/description)
 - [Remove Nth Node From End of List](src/linkedlist/RemoveNthNodeFromEndofList.java)(Medium)[->link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description)
 - [Copy List with Random Pointer](src/linkedlist/CopyListWithRandomPointer.java)(Medium)[->link](https://leetcode.com/problems/copy-list-with-random-pointer/#/description)
+
+#### [Tree](src/tree)
+
+- [Minimum Depth of Binary Tree](src/tree/MinimumDepthOfBinaryTree.java)(Easy)[->link](https://leetcode.com/problems/minimum-depth-of-binary-tree/#/description)
+- [Maximum Depth of Binary Tree](src/tree/MaximumDepthOfBinaryTree.java)(Easy)[->link](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+- [Lowest Common Ancestor of a Binary Search Tree](src/tree/LowestCommonAncestorOfABinarySearchTree.java)(Easy)[->link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+- [Balanced Binary Tree](src/tree/BalancedBinaryTree.java)(Easy)[->link](https://leetcode.com/problems/balanced-binary-tree/description/)
+- [Path Sum](src/tree/PathSum.java)(Easy)[->link](https://leetcode.com/problems/path-sum/description/)
+- [Convert Sorted Array to Binary Search Tree](src/tree/ConvertSortedArrayToBinarySearchTree.java)(Easy)[->link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
