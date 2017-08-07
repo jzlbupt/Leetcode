@@ -1,6 +1,6 @@
 # LeetCode solutions in Java
 
-#### [Two Pointers](src/twopointers)
+#### [Two Pointers](src/twopointers) 17 problems
 
 - [Three Sum](src/twopointers/ThreeSum.java) 
 - [Three Sum closest](src/twopointers/ThreeSumClosest.java)
@@ -20,7 +20,7 @@
 - [K-diff Pairs in an Array](src/twopointers/KDiffPairsInAnArray.java)(Easy)[->link](https://leetcode.com/problems/k-diff-pairs-in-an-array/#/description)
 - [Permutation in String](src/twopointers/PermutationInString.java)(Medium)[->link](https://leetcode.com/problems/permutation-in-string/#/description)
 
-#### [Linked List](src/linkedlist)
+#### [Linked List](src/linkedlist) 19 problems
 
 - [Linked List Cycle](src/linkedlist/LinkedListCycle.java)(Easy)[->link](https://leetcode.com/problems/linked-list-cycle/#/description0)
 - [Linked List Cycle II](src/linkedlist/LinkedListCycle2.java)(Medium)[->link](https://leetcode.com/problems/linked-list-cycle-ii/#/description)
