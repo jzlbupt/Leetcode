@@ -42,7 +42,7 @@
 - [Remove Nth Node From End of List](src/linkedlist/RemoveNthNodeFromEndofList.java)(Medium)[->link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description)
 - [Copy List with Random Pointer](src/linkedlist/CopyListWithRandomPointer.java)(Medium)[->link](https://leetcode.com/problems/copy-list-with-random-pointer/#/description)
 
-#### [Tree](src/tree)
+#### [Tree](src/tree) 6 problems
 
 - [Minimum Depth of Binary Tree](src/tree/MinimumDepthOfBinaryTree.java)(Easy)[->link](https://leetcode.com/problems/minimum-depth-of-binary-tree/#/description)
 - [Maximum Depth of Binary Tree](src/tree/MaximumDepthOfBinaryTree.java)(Easy)[->link](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
@@ -51,6 +51,3 @@
 - [Path Sum](src/tree/PathSum.java)(Easy)[->link](https://leetcode.com/problems/path-sum/description/)
 - [Convert Sorted Array to Binary Search Tree](src/tree/ConvertSortedArrayToBinarySearchTree.java)(Easy)[->link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
 
-
-- add one line in master
-- dddd
