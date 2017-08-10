@@ -50,5 +50,5 @@
 - [Balanced Binary Tree](src/tree/BalancedBinaryTree.java)(Easy)[->link](https://leetcode.com/problems/balanced-binary-tree/description/)
 - [Path Sum](src/tree/PathSum.java)(Easy)[->link](https://leetcode.com/problems/path-sum/description/)
 - [Convert Sorted Array to Binary Search Tree](src/tree/ConvertSortedArrayToBinarySearchTree.java)(Easy)[->link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
-- [Same Tree](src/tree/SameTree.java)(Easy)[->link](https://leetcode.com/problems/same-tree/description/)
-- [Symmetric Tree](src/tree/SymmetricTree.java)(Easy)[->link](https://leetcode.com/problems/symmetric-tree/description/)
+
+---skdjflsjdfl;j
