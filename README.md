@@ -52,3 +52,7 @@
 - [Convert Sorted Array to Binary Search Tree](src/tree/ConvertSortedArrayToBinarySearchTree.java)(Easy)[->link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
 - [Same Tree](src/tree/SameTree.java)(Easy)[->link](https://leetcode.com/problems/same-tree/description/)
 - [Symmetric Tree](src/tree/SymmetricTree.java)(Easy)[->link](https://leetcode.com/problems/symmetric-tree/description/)
+- [Binary Tree Level Order Traversal II](src/tree/BinaryTreeLevelOrderTraversal2.java)(Easy)[->link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)
+- [Invert Binary Tree](src/tree/InvertBinaryTree.java)(Easy)[->link](https://leetcode.com/problems/invert-binary-tree/description/)
+- [Binary Tree Paths](src/tree/BinaryTreePaths.java)(Easy)[->link](https://leetcode.com/problems/binary-tree-paths/description/)
+- [Path Sum III](src/tree/PathSum3.java)(Easy)[->link](https://leetcode.com/problems/path-sum-iii/description/)
