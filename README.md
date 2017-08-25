@@ -61,6 +61,6 @@
 - [Subtree of Another Tree](src/tree/SubtreeOfAnotherTree.java)(Easy)[->link](https://leetcode.com/problems/subtree-of-another-tree/description/)
 - [Binary Tree Tilt](src/tree/BinaryTreeTilt.java)(Easy)[->link](https://leetcode.com/problems/binary-tree-tilt/description/)
 - [Average of Levels in Binary Tree](src/tree/AverageOfLevelsInBinaryTree.java)(Easy)[->link](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)
-- [Merge Two Binary Trees](src/tree/Merge Two Binary Trees.java)(Easy)[->link](https://leetcode.com/problems/merge-two-binary-trees/description/)
+- [Merge Two Binary Trees](src/tree/MergeTwoBinaryTrees.java)(Easy)[->link](https://leetcode.com/problems/merge-two-binary-trees/description/)
 - [Two Sum IV - Input is a BST](src/tree/TwoSum4BST.java)(Easy)[->link](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)
 - [Diameter of Binary Tree](src/tree/DiameterOfBinaryTree.java)(Easy)[->link](https://leetcode.com/problems/diameter-of-binary-tree/description/)
