@@ -89,3 +89,11 @@
 - [Recover Binary Search Tree](src/tree/RecoverBinarySearchTree.java)(Hard)[->link](https://leetcode.com/problems/recover-binary-search-tree/description/)
 - [Binary Tree Maximum Path Sum](src/tree/BinaryTreeMaximumPathSum.java)(Hard)[->link](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
 - [Trim a Binary Search Tree](src/tree/TrimABinarySearchTree.java)(Easy)[->link](https://leetcode.com/problems/trim-a-binary-search-tree/description/)
+
+#### [Array](/src/array)
+
+- [Jump Game](src/array/JumpGame.java)(Medium)[->link](https://leetcode.com/problems/jump-game/description/)
+- [Merge Intervals](src/array/MergeIntervals.java)(Medium)[->link](https://leetcode.com/problems/merge-intervals/description/)
+- [Two Sum](src/array/TwoSum.java)(Easy)[->link](https://leetcode.com/problems/two-sum/description/)
+- [Search for a Range](src/array/SearchForARange.java)(Medium)[->link](https://leetcode.com/problems/search-for-a-range/description/)
+- [Search in Rotated Sorted Array](src/array/SearchInRotatedSortedArray.java)(Medium)[->link](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
