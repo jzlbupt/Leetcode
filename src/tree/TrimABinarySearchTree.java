@@ -9,8 +9,8 @@ package tree;
 
  Example 1:
  Input:
- 1
- / \
+   1
+  / \
  0   2
 
  L = 1
@@ -18,26 +18,26 @@ package tree;
 
  Output:
  1
- \
- 2
+  \
+   2
  Example 2:
  Input:
- 3
- / \
- 0   4
- \
- 2
- /
+    3
+   / \
+  0   4
+   \
+   2
+  /
  1
 
  L = 1
  R = 3
 
  Output:
- 3
- /
- 2
- /
+     3
+    /
+   2
+  /
  1
  */
 public class TrimABinarySearchTree {

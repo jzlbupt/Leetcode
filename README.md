@@ -97,3 +97,6 @@
 - [Two Sum](src/array/TwoSum.java)(Easy)[->link](https://leetcode.com/problems/two-sum/description/)
 - [Search for a Range](src/array/SearchForARange.java)(Medium)[->link](https://leetcode.com/problems/search-for-a-range/description/)
 - [Search in Rotated Sorted Array](src/array/SearchInRotatedSortedArray.java)(Medium)[->link](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+- [Search Insert Position](src/array/SearchInsertPosition.java)(Easy)[->link](https://leetcode.com/problems/search-insert-position/description/)
+- [Next Permutation](src/array/NextPermutation.java)(Medium)[->link](https://leetcode.com/problems/next-permutation/description/)
+- [Combination Sum](src/array/CombinationSum.java)(Medium)[->link](https://leetcode.com/problems/combination-sum/description/)
