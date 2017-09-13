@@ -109,3 +109,7 @@
 - [Permutations II](src/backtracking/Permutations2.java)(Medium)[->link](https://leetcode.com/problems/permutations-ii/description/)
 - [Combinations](src/backtracking/Combinations.java)(Medium)[->link](https://leetcode.com/problems/combinations/description/)
 - [Permutation Sequence](src/backtracking/PermutationSequence.java)(Medium)[->link](https://leetcode.com/problems/permutation-sequence/description/)
+- [Subsets](src/backtracking/Subsets.java)(Medium)[->link](https://leetcode.com/problems/subsets/description/)
+- [Subsets II](src/backtracking/Subsets2.java)(Medium)[->link](https://leetcode.com/problems/subsets-ii/description/)
+- [Letter Combinations of a Phone Number](src/backtracking/LetterCombinationsOfAPhoneNumber.java)(Medium)[->link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+- [Generate Parentheses](src/backtracking/GenerateParentheses.java)(Medium)[->link](https://leetcode.com/problems/generate-parentheses/description/)
