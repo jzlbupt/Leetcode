@@ -1,4 +1,4 @@
-package array;
+package backtracking;
 
 /**
  * Created by ziljin on 11/09/2017.
@@ -30,19 +30,22 @@ public class CombinationSum {
         if(candidates == null || candidates.length == 0) return rst;
         List<Integer> tmp = new ArrayList<Integer>();
         Arrays.sort(candidates);
-        helper(candidates, target, rst, tmp);
+        helper(candidates, target, rst, tmp, 0);
         return rst;
     }
-    private void helper(int[] candidates, int target, List<List<Integer>> rst, List<Integer> tmp) {
+    private void helper(int[] candidates, int target, List<List<Integer>> rst, List<Integer> tmp, int pos) {
         if(target == 0) {
             rst.add(new ArrayList<Integer>(tmp));
             return;
         }
-        for(int i=0; i<candidates.length; i++) {
-            if()
+        for(int i=pos; i<candidates.length; i++) {
+            if(target - candidates[i] < 0) {
+                continue;
+            }
             tmp.add(candidates[i]);
             target = target - candidates[i];
-            helper(candidates, target, rst, tmp);
+            helper(candidates, target, rst, tmp, i);
+            target = target + candidates[i];
             tmp.remove(tmp.size() -1);
         }
     }

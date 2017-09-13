@@ -99,4 +99,13 @@
 - [Search in Rotated Sorted Array](src/array/SearchInRotatedSortedArray.java)(Medium)[->link](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [Search Insert Position](src/array/SearchInsertPosition.java)(Easy)[->link](https://leetcode.com/problems/search-insert-position/description/)
 - [Next Permutation](src/array/NextPermutation.java)(Medium)[->link](https://leetcode.com/problems/next-permutation/description/)
-- [Combination Sum](src/array/CombinationSum.java)(Medium)[->link](https://leetcode.com/problems/combination-sum/description/)
+- [Pascal's Triangle](src/array/PascalsTriangle.java)(Easy)[->link](https://leetcode.com/problems/pascals-triangle/description/)
+
+#### [BackTracking](/src/backtracking)
+
+- [Combination Sum](src/backtracking/CombinationSum.java)(Medium)[->link](https://leetcode.com/problems/combination-sum/description/)
+- [Combination Sum II](src/backtracking/CombinationSum2.java)(Medium)[->link](https://leetcode.com/problems/combination-sum-ii/description/)
+- [Permutations](src/backtracking/Permutations.java)(Medium)[->link](https://leetcode.com/problems/permutations/description/)
+- [Permutations II](src/backtracking/Permutations2.java)(Medium)[->link](https://leetcode.com/problems/permutations-ii/description/)
+- [Combinations](src/backtracking/Combinations.java)(Medium)[->link](https://leetcode.com/problems/combinations/description/)
+- [Permutation Sequence](src/backtracking/PermutationSequence.java)(Medium)[->link](https://leetcode.com/problems/permutation-sequence/description/)
