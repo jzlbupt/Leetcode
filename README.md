@@ -113,3 +113,6 @@
 - [Subsets II](src/backtracking/Subsets2.java)(Medium)[->link](https://leetcode.com/problems/subsets-ii/description/)
 - [Letter Combinations of a Phone Number](src/backtracking/LetterCombinationsOfAPhoneNumber.java)(Medium)[->link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 - [Generate Parentheses](src/backtracking/GenerateParentheses.java)(Medium)[->link](https://leetcode.com/problems/generate-parentheses/description/)
+- [Palindrome Partitioning](src/backtracking/PalindromePartitioning.java)(Medium)[->link](https://leetcode.com/problems/palindrome-partitioning/description/)
+- [Word Search](src/backtracking/WordSearch.java)(Medium)[->link](https://leetcode.com/problems/word-search/description/)
+- [Gray Code](src/GrayCode.java)(Medium)[->link](https://leetcode.com/problems/gray-code/description/)
