@@ -116,3 +116,11 @@
 - [Palindrome Partitioning](src/backtracking/PalindromePartitioning.java)(Medium)[->link](https://leetcode.com/problems/palindrome-partitioning/description/)
 - [Word Search](src/backtracking/WordSearch.java)(Medium)[->link](https://leetcode.com/problems/word-search/description/)
 - [Gray Code](src/GrayCode.java)(Medium)[->link](https://leetcode.com/problems/gray-code/description/)
+- [Combination Sum III](src/backtracking/CombinationSum3.java)(Medium)[->link](https://leetcode.com/problems/combination-sum-iii/description/)
+- [Sudoku Solver](src/backtracking/SudokuSolver.java)(Hard)[->link](https://leetcode.com/problems/sudoku-solver/description/)
+- [N-Queens](src/backtracking/NQueens.java)(Hard)[->link](https://leetcode.com/problems/n-queens/description/)
+- [N-Queens II](src/backtracking/NQueens2.java)(Hard)[->link](https://leetcode.com/problems/n-queens-ii/discuss/)
+
+#### [Dynamic Programming](/src/dynamicprogramming)
+
+- [Count Numbers with Unique Digits](src/dynamicprogramming/CountNumbersWithUniqueDigits.java)(Medium)[->link](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)
