@@ -120,7 +120,12 @@
 - [Sudoku Solver](src/backtracking/SudokuSolver.java)(Hard)[->link](https://leetcode.com/problems/sudoku-solver/description/)
 - [N-Queens](src/backtracking/NQueens.java)(Hard)[->link](https://leetcode.com/problems/n-queens/description/)
 - [N-Queens II](src/backtracking/NQueens2.java)(Hard)[->link](https://leetcode.com/problems/n-queens-ii/discuss/)
+- [Word Ladder II](src/backtracking/WordLadder2.java)(Hard)[->link](https://leetcode.com/problems/word-ladder-ii/description/)
 
 #### [Dynamic Programming](/src/dynamicprogramming)
 
+- [Maximum Subarray](src/dynamicprogramming/MaximumSubarray.java)(Easy)[->link](https://leetcode.com/problems/maximum-subarray/description/)
+- [Climbing Stairs](src/dynamicprogramming/ClimbingStairs.java)(Easy)[->link](https://leetcode.com/problems/climbing-stairs/description/)
+- [Best Time to Buy and Sell Stock](src/dynamicprogramming/BestTimeToBuyAndSellStock.java)(Easy)[->](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+- [House Robber](src/dynamicprogramming/HouseRobber.java)(Easy)[->link](https://leetcode.com/problems/house-robber/description/)
 - [Count Numbers with Unique Digits](src/dynamicprogramming/CountNumbersWithUniqueDigits.java)(Medium)[->link](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)
