@@ -128,4 +128,8 @@
 - [Climbing Stairs](src/dynamicprogramming/ClimbingStairs.java)(Easy)[->link](https://leetcode.com/problems/climbing-stairs/description/)
 - [Best Time to Buy and Sell Stock](src/dynamicprogramming/BestTimeToBuyAndSellStock.java)(Easy)[->](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [House Robber](src/dynamicprogramming/HouseRobber.java)(Easy)[->link](https://leetcode.com/problems/house-robber/description/)
+- [Unique Paths](src/dynamicprogramming/UniquePaths.java)(Medium)[->link](https://leetcode.com/problems/unique-paths/description/)
+- [Unique Paths II](src/dynamicprogramming/UniquePaths2.java)(Medium)[->link](https://leetcode.com/problems/unique-paths-ii/description/)
+- [Minimum Path Sum](src/dynamicprogramming/MinimumPathSum.java)(Medium)[->link](https://leetcode.com/problems/minimum-path-sum/description/)
+- [Decode Ways](src/dynamicprogramming/DecodeWays.java)(Medium)[->link](https://leetcode.com/problems/decode-ways/description/)
 - [Count Numbers with Unique Digits](src/dynamicprogramming/CountNumbersWithUniqueDigits.java)(Medium)[->link](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)
