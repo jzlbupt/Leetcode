@@ -133,3 +133,10 @@
 - [Minimum Path Sum](src/dynamicprogramming/MinimumPathSum.java)(Medium)[->link](https://leetcode.com/problems/minimum-path-sum/description/)
 - [Decode Ways](src/dynamicprogramming/DecodeWays.java)(Medium)[->link](https://leetcode.com/problems/decode-ways/description/)
 - [Count Numbers with Unique Digits](src/dynamicprogramming/CountNumbersWithUniqueDigits.java)(Medium)[->link](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)
+
+#### [Bit Manipulation](/src/bitmanipulation)
+
+- [Single Number](src/bitmanipulation/SingleNumber.java)(Easy)[->link](https://leetcode.com/problems/single-number/description/)
+- [Single Number2](src/bitmanipulation/SingleNumber2.java)(Medium)[->link](https://leetcode.com/problems/single-number-ii/description/)
+- [Majority Element](src/bitmanipulation/MajorityElement.java)(Easy)[->link](https://leetcode.com/problems/majority-element/description/)
+- [Reverse Bits](src/bitmanipulation/ReverseBits.java)(Easy)[->link](https://leetcode.com/problems/reverse-bits/description/)
