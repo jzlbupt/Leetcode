@@ -140,3 +140,6 @@
 - [Single Number2](src/bitmanipulation/SingleNumber2.java)(Medium)[->link](https://leetcode.com/problems/single-number-ii/description/)
 - [Majority Element](src/bitmanipulation/MajorityElement.java)(Easy)[->link](https://leetcode.com/problems/majority-element/description/)
 - [Reverse Bits](src/bitmanipulation/ReverseBits.java)(Easy)[->link](https://leetcode.com/problems/reverse-bits/description/)
+
+#### [Cache Algorithm](src/cache)
+- [LRU Cache](src/cache/LRUCache.java)(Hard)[->link](https://leetcode.com/problems/lru-cache/description/)
