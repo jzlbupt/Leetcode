@@ -1,5 +1,7 @@
 package bitmanipulation;
 
+import java.util.HashMap;
+
 /**
  * Created by ziljin on 01/11/2017.
  */
@@ -56,5 +58,6 @@ public class SingleNumber2 {
         int[] nums = {1,1,1,2,2,2,3,3,3,4};
         System.out.println(new SingleNumber2().singleNumber4(nums));
         System.out.println(~0);
+        new HashMap<String, String>();
     }
 }
